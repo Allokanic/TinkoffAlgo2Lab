@@ -1,0 +1,93 @@
+🚀Starting testcases for the 1st algorithm...
+	🛠️ Running building testcases for the 1st algorithm...
+	🔎Setup: start=10  finish=100000  multiplier=2  iterations=100000  iterations_multiplier=1
+		🧪Testcase #1       :  current=10      current_iterations=100000  avg.time=16 ns
+		🧪Testcase #2       :  current=20      current_iterations=100000  avg.time=13 ns
+		🧪Testcase #3       :  current=40      current_iterations=100000  avg.time=13 ns
+		🧪Testcase #4       :  current=80      current_iterations=100000  avg.time=13 ns
+		🧪Testcase #5       :  current=160     current_iterations=100000  avg.time=14 ns
+		🧪Testcase #6       :  current=320     current_iterations=100000  avg.time=14 ns
+		🧪Testcase #7       :  current=640     current_iterations=100000  avg.time=13 ns
+		🧪Testcase #8       :  current=1280    current_iterations=100000  avg.time=13 ns
+		🧪Testcase #9       :  current=2560    current_iterations=100000  avg.time=13 ns
+		🧪Testcase #10      :  current=5120    current_iterations=100000  avg.time=13 ns
+		🧪Testcase #11      :  current=10240   current_iterations=100000  avg.time=13 ns
+		🧪Testcase #12      :  current=20480   current_iterations=100000  avg.time=13 ns
+		🧪Testcase #13      :  current=40960   current_iterations=100000  avg.time=13 ns
+		🧪Testcase #14      :  current=81920   current_iterations=100000  avg.time=14 ns
+
+	🎬Running action testcases for the 1st algorithm...
+	🔎Setup: start=10  finish=100000  multiplier=2  iterations=100000  iterations_multiplier=0.60000002384185791
+		🧪Testcase #1       :  current=10      current_iterations=100000  avg.time=369 ns
+		🧪Testcase #2       :  current=20      current_iterations=60000   avg.time=637 ns
+		🧪Testcase #3       :  current=40      current_iterations=36000   avg.time=1229 ns
+		🧪Testcase #4       :  current=80      current_iterations=21600   avg.time=2275 ns
+		🧪Testcase #5       :  current=160     current_iterations=12960   avg.time=4604 ns
+		🧪Testcase #6       :  current=320     current_iterations=7776    avg.time=8968 ns
+		🧪Testcase #7       :  current=640     current_iterations=4665    avg.time=17814 ns
+		🧪Testcase #8       :  current=1280    current_iterations=2799    avg.time=35424 ns
+		🧪Testcase #9       :  current=2560    current_iterations=1679    avg.time=70355 ns
+		🧪Testcase #10      :  current=5120    current_iterations=1007    avg.time=141293 ns
+		🧪Testcase #11      :  current=10240   current_iterations=604     avg.time=281413 ns
+		🧪Testcase #12      :  current=20480   current_iterations=362     avg.time=569169 ns
+		🧪Testcase #13      :  current=40960   current_iterations=217     avg.time=1211836 ns
+		🧪Testcase #14      :  current=81920   current_iterations=130     avg.time=2411499 ns
+
+🚀Starting testcases for the 2nd algorithm...
+	🛠️ Running building testcases for the 2nd algorithm...
+	🔎Setup: start=10  finish=2000  multiplier=2  iterations=10000  iterations_multiplier=0.200000002980232239
+		🧪Testcase #1       :  current=10      current_iterations=10000   avg.time=33440 ns
+		🧪Testcase #2       :  current=20      current_iterations=2000    avg.time=131151 ns
+		🧪Testcase #3       :  current=40      current_iterations=400     avg.time=779198 ns
+		🧪Testcase #4       :  current=80      current_iterations=80      avg.time=5499552 ns
+		🧪Testcase #5       :  current=160     current_iterations=16      avg.time=40254883 ns
+		🧪Testcase #6       :  current=320     current_iterations=3       avg.time=313918068 ns
+		🧪Testcase #7       :  current=640     current_iterations=1       avg.time=2498849634 ns
+		🧪Testcase #8       :  current=1280    current_iterations=1       avg.time=20268111992 ns
+
+	🎬Running action testcases for the 2nd algorithm...
+	🔎Setup: start=10  finish=2000  multiplier=2  iterations=10000  iterations_multiplier=0.200000002980232239
+		🧪Testcase #1       :  current=10      current_iterations=10000   avg.time=250 ns
+		🧪Testcase #2       :  current=20      current_iterations=2000    avg.time=286 ns
+		🧪Testcase #3       :  current=40      current_iterations=400     avg.time=329 ns
+		🧪Testcase #4       :  current=80      current_iterations=80      avg.time=388 ns
+		🧪Testcase #5       :  current=160     current_iterations=16      avg.time=454 ns
+		🧪Testcase #6       :  current=320     current_iterations=3       avg.time=544 ns
+		🧪Testcase #7       :  current=640     current_iterations=1       avg.time=651 ns
+		🧪Testcase #8       :  current=1280    current_iterations=1       avg.time=782 ns
+
+🚀Starting testcases for the 3rd algorithm...
+	🛠️ Running building testcases for the 3rd algorithm...
+	🔎Setup: start=10  finish=100000  multiplier=2  iterations=100000  iterations_multiplier=0.5
+		🧪Testcase #1       :  current=10      current_iterations=100000  avg.time=62029 ns
+		🧪Testcase #2       :  current=20      current_iterations=50000   avg.time=139206 ns
+		🧪Testcase #3       :  current=40      current_iterations=25000   avg.time=312442 ns
+		🧪Testcase #4       :  current=80      current_iterations=12500   avg.time=698280 ns
+		🧪Testcase #5       :  current=160     current_iterations=6250    avg.time=1476161 ns
+		🧪Testcase #6       :  current=320     current_iterations=3125    avg.time=3225300 ns
+		🧪Testcase #7       :  current=640     current_iterations=1562    avg.time=7046060 ns
+		🧪Testcase #8       :  current=1280    current_iterations=781     avg.time=14276931 ns
+		🧪Testcase #9       :  current=2560    current_iterations=390     avg.time=32419557 ns
+		🧪Testcase #10      :  current=5120    current_iterations=195     avg.time=69574493 ns
+		🧪Testcase #11      :  current=10240   current_iterations=97      avg.time=149703224 ns
+		🧪Testcase #12      :  current=20480   current_iterations=48      avg.time=321218424 ns
+		🧪Testcase #13      :  current=40960   current_iterations=24      avg.time=689717465 ns
+		🧪Testcase #14      :  current=81920   current_iterations=12      avg.time=1424229680 ns
+
+	🎬Running action testcases for the 3rd algorithm...
+	🔎Setup: start=10  finish=100000  multiplier=2  iterations=100000  iterations_multiplier=1
+		🧪Testcase #1       :  current=10      current_iterations=100000  avg.time=845 ns
+		🧪Testcase #2       :  current=20      current_iterations=100000  avg.time=996 ns
+		🧪Testcase #3       :  current=40      current_iterations=100000  avg.time=1060 ns
+		🧪Testcase #4       :  current=80      current_iterations=100000  avg.time=1147 ns
+		🧪Testcase #5       :  current=160     current_iterations=100000  avg.time=1282 ns
+		🧪Testcase #6       :  current=320     current_iterations=100000  avg.time=1381 ns
+		🧪Testcase #7       :  current=640     current_iterations=100000  avg.time=1474 ns
+		🧪Testcase #8       :  current=1280    current_iterations=100000  avg.time=1594 ns
+		🧪Testcase #9       :  current=2560    current_iterations=100000  avg.time=1692 ns
+		🧪Testcase #10      :  current=5120    current_iterations=100000  avg.time=1804 ns
+		🧪Testcase #11      :  current=10240   current_iterations=100000  avg.time=1949 ns
+		🧪Testcase #12      :  current=20480   current_iterations=100000  avg.time=2157 ns
+		🧪Testcase #13      :  current=40960   current_iterations=100000  avg.time=2416 ns
+		🧪Testcase #14      :  current=81920   current_iterations=100000  avg.time=2629 ns
+
